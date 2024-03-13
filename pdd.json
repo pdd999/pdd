@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/pdd999/pdd/raw/main/pdd.jar",
+  "spider": "https://gitee.com/xigua688/tvbox/raw/master/fty.jar",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -57,7 +57,7 @@
       "name": "🧡|维护中",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://github.com/pdd999/pdd/raw/main/lib/dj2.jar",
+      "jar": "https://gitee.com/xigua688/tvbox/raw/master/lib/dj2.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -137,7 +137,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.com/pdd999/pdd/raw/main/lib/MTV.json"
+      "ext": "https://gitee.com/xigua688/tvbox/raw/master/lib/MTV.json"
     },
       {
       "key": "Czsapp",
@@ -251,7 +251,36 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   
+     {
+      "key": "斗鱼js",
+      "name": "-",
+      "type": 3,
+      "api": "https://gitee.com/xigua688/tvbox/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/xigua688/tvbox/raw/master/lib/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "playerType": "1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+      {
+      "key": "虎牙直播js",
+      "name": "-",
+      "type": 3,
+      "api": "https://gitee.com/xigua688/tvbox/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/xigua688/tvbox/raw/master/lib/huyazhibo.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "playerType": "1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
      {
       "key": "小柚",
       "name": "-",
@@ -311,7 +340,62 @@
       "quickSearch": 0,
       "changeable": 0
     },
-          
+    {
+      "key": "少儿教育",
+      "name": "-",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "-",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "-",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "-",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/高中课堂.json"
+    },
     {
       "key": "萌米",
       "name": "-",
