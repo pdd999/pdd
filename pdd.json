@@ -256,7 +256,7 @@
       "name": "-",
       "type": 3,
       "api": "https://gitee.com/xigua688/tvbox/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/xigua688/tvbox/raw/master/lib/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+      "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
