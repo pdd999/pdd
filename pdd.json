@@ -251,36 +251,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
-      "key": "斗鱼js",
-      "name": "-",
-      "type": 3,
-      "api": "https://gitee.com/xigua688/tvbox/raw/master/lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-      {
-      "key": "虎牙直播js",
-      "name": "-",
-      "type": 3,
-      "api": "https://gitee.com/xigua688/tvbox/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/xigua688/tvbox/raw/master/lib/huyazhibo.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+   
      {
       "key": "小柚",
       "name": "-",
